@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Generate rsc
-        run: bash .github/workflows/generate.sh
+        run: bash generate.sh
         
       - name: Commit and push
         run: |
