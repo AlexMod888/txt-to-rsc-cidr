@@ -230,6 +230,10 @@
 /ip firewall address-list add list=gpt-list address=172.192.112.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=172.197.160.192/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=172.197.203.16/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=172.198.58.176/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=172.198.78.192/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=172.198.79.112/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=172.198.161.128/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=172.199.137.80/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=172.203.190.80/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=172.203.190.112/28 comment=openai-auto;
