@@ -82,12 +82,14 @@
 /ip firewall address-list add list=gpt-list address=20.200.212.240/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.206.101.192/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.210.211.192/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=20.212.62.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.215.187.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.215.219.128/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.215.219.160/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.215.219.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.218.30.240/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.219.71.192/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=20.219.161.192/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.219.184.96/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.222.36.192/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.227.140.32/28 comment=openai-auto;
@@ -96,6 +98,7 @@
 /ip firewall address-list add list=gpt-list address=20.249.63.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.250.6.128/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=20.250.136.64/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=20.254.201.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=23.98.142.176/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=23.98.186.64/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=23.98.186.96/28 comment=openai-auto;
@@ -113,6 +116,7 @@
 /ip firewall address-list add list=gpt-list address=40.84.221.224/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=40.90.214.16/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=40.116.73.208/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=40.119.36.240/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=40.124.161.0/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=48.221.40.176/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=48.221.184.80/28 comment=openai-auto;
@@ -144,6 +148,7 @@
 /ip firewall address-list add list=gpt-list address=52.190.139.48/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=52.190.142.64/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=52.190.190.16/28 comment=openai-auto;
+/ip firewall address-list add list=gpt-list address=52.190.251.112/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=52.225.75.208/28 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=52.230.152.0/24 comment=openai-auto;
 /ip firewall address-list add list=gpt-list address=52.231.30.48/28 comment=openai-auto;
